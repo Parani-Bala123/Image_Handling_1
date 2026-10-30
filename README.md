@@ -1,4 +1,7 @@
-# Experiment 1: Image Handling
+# Experiment 1: Image Handling and Pixel Transformation using OpenCV
+
+### Name: Parani Bala M
+### Reg.no: 212224230192¶
 
 ## Aim
 
@@ -66,6 +69,10 @@ plt.show()
 print("Image Shape:", img_rgb.shape)
 ```
 
+## Output:
+<img width="1512" height="560" alt="image" src="https://github.com/user-attachments/assets/9e806b1c-3cff-4d08-b19d-cfb5a0bf1915" />
+
+
 ### 2. Draw Shapes and Add Text
 
 ```python
@@ -101,6 +108,12 @@ plt.title("Image with Text")
 plt.axis("off")
 plt.show()
 ```
+## Output:
+
+<img width="1515" height="557" alt="image" src="https://github.com/user-attachments/assets/b96e3d31-5be2-431f-a040-acd59b2a8f7a" />
+<img width="1502" height="577" alt="image" src="https://github.com/user-attachments/assets/91786540-3671-4e02-9889-0dfb9a333a22" />
+<img width="1508" height="567" alt="image" src="https://github.com/user-attachments/assets/13c3d6f8-e3dc-4663-99ce-2d0d6a8f2ccc" />
+<img width="1508" height="565" alt="image" src="https://github.com/user-attachments/assets/65b5dee1-ab37-479d-8794-1387fa06aa5c" />
 
 ### 3. Color Space Conversion
 
@@ -120,6 +133,13 @@ plt.title("Grayscale Image")
 plt.axis("off")
 plt.show()
 ```
+## Output:
+
+<img width="1512" height="600" alt="image" src="https://github.com/user-attachments/assets/9a3c5584-9255-4539-9e04-15d7ffb497ac" />
+<img width="1503" height="610" alt="image" src="https://github.com/user-attachments/assets/c68eda21-89bc-4dfe-87f2-543e0eb6a8d8" />
+<img width="1510" height="600" alt="image" src="https://github.com/user-attachments/assets/b528a66d-2bba-4994-93b5-d6363e54b79b" />
+<img width="1522" height="612" alt="image" src="https://github.com/user-attachments/assets/c6649d1c-1a24-4766-85aa-85804ac2520b" />
+
 
 ### 4. Pixel Manipulation
 
@@ -136,6 +156,9 @@ plt.title("Image with White Block")
 plt.axis("off")
 plt.show()
 ```
+## Output:
+
+<img width="1500" height="567" alt="image" src="https://github.com/user-attachments/assets/ee36814d-99cd-4b1e-8d46-5b81777c4529" />
 
 ### 5. Image Resizing
 
@@ -156,6 +179,10 @@ plt.show()
 print("Resized Image Shape:", resized_image_rgb.shape)
 ```
 
+## Output:
+
+<img width="1508" height="580" alt="image" src="https://github.com/user-attachments/assets/cc757544-1e7b-4b2f-b955-6189f8e52594" />
+
 ### 6. Image Cropping
 
 ```python
@@ -170,6 +197,9 @@ plt.title("Cropped Region of Interest")
 plt.axis("off")
 plt.show()
 ```
+## Output:
+
+<img width="1512" height="576" alt="image" src="https://github.com/user-attachments/assets/59c92280-3def-4151-9714-78ff55eaab56" />
 
 ### 7. Image Flipping
 
@@ -198,6 +228,12 @@ plt.title("Vertical Flip")
 plt.axis("off")
 plt.show()
 ```
+
+## Output:
+
+<img width="1517" height="611" alt="image" src="https://github.com/user-attachments/assets/d6339d8d-3d9d-446d-ac7e-93527eee4d39" />
+
+<img width="1503" height="631" alt="image" src="https://github.com/user-attachments/assets/c4d31c38-49a9-40aa-83e1-1c111f758030" />
 
 ## Result
 
