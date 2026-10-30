@@ -1,7 +1,7 @@
 # Experiment 1: Image Handling and Pixel Transformation using OpenCV
 
 ### Name: Parani Bala M
-### Reg.no: 212224230192¶
+### Reg.no: 212224230192
 
 ## Aim
 
